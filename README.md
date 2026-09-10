@@ -355,26 +355,6 @@ The project aims to:
 
 ---
 
-## 👨‍💻 Author
-
-**Name:** Your Name
-**College:** Your College Name
-**AICTE STU ID:** Your STU ID
-
----
-
-## 🔗 Project Links
-
-**GitHub Repository:**
-`Add your GitHub repository link here`
-
-**Google Colab Notebook:**
-`Add your Colab link here`
-
-**Project Submission:**
-Submitted through the official VOIS project submission form.
-
----
 
 ## 📜 Course
 
