@@ -233,26 +233,6 @@ Some of the major visualizations include:
 
 ---
 
-## 📁 Project Structure
-
-```text
-Seasonal-Agriculture-Performance-Analysis/
-│
-├── 📓 Seasonal_Agriculture_Performance_Analysis.ipynb
-│
-├── 📊 seasonal_agriculture_performance_dataset.csv
-│
-├── 📄 README.md
-│
-└── 📁 visualizations/
-    ├── seasonal_yield.png
-    ├── seasonal_production.png
-    ├── seasonal_profit.png
-    ├── rainfall_by_season.png
-    ├── water_usage.png
-    ├── crop_season_heatmap.png
-    └── correlation_heatmap.png
-```
 
 ---
 
